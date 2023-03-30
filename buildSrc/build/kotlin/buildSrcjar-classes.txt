@@ -1,0 +1,1 @@
+C:\Users\adi winarno\AndroidStudioProjects\clonenetflix\buildSrc\build\classes\kotlin\main\AndroidProjectConfig.class;C:\Users\adi winarno\AndroidStudioProjects\clonenetflix\buildSrc\build\classes\kotlin\main\Libraries$Versions.class;C:\Users\adi winarno\AndroidStudioProjects\clonenetflix\buildSrc\build\classes\kotlin\main\Libraries.class
