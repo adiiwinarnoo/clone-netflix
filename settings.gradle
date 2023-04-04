@@ -16,3 +16,4 @@ rootProject.name = "clone-netflix"
 include ':app'
 include ':styling'
 include ':core'
+include ':shared'
